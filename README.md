@@ -8,3 +8,5 @@ This program is a nature simulator using functional decomposition design for ent
 - [x] Simulates grain growth, deer population growth, and hunter population growth for 6 years. 
 
 ### Example
+
+![Image of Results](https://github.com/Anthony-ferrari/nature_simulation/blob/main/nature_simulation_graph.png)
